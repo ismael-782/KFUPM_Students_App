@@ -27,7 +27,7 @@ class _locationInputState extends State<locationInput> {
     }
     final lat = _pickedLocation!.latitude;
     final lng = _pickedLocation!.longitude;
-    return 'https://maps.googleapis.com/maps/api/staticmap?center=$lat,$lng&zoom=13&size=600x300&maptype=roadmap&markers=color:red%7Clabel:A%7C$lat,$lng&key=AIzaSyCHvmtEr2uL9gHV-lPXVh-Z1ivx9GM-81g';
+    return // here is the google map API Key, ehre removed for security purposes
   }
 
   void getCurrentLocation() async {
