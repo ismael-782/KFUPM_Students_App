@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **KFUPM Student App** 
 
 **Project Overview:**
@@ -52,3 +53,6 @@ The **KFUPM Student App** was developed during the **Flutter Weekend Hackathon**
 - Special thanks to the **KFUPM IT Team** for sponsoring the hackathon.
 - A huge thank you to **GDSC KFUPM** and **KFUPM Computer Club** for organizing the event.
 
+=======
+# KFUPM_Students_App
+>>>>>>> 59727bfd593f3e611163d045bf7c6981a4282a32
