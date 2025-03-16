@@ -62,7 +62,7 @@ class _locationInputState extends State<locationInput> {
     }
 
     final url = Uri.parse(
-        'https://maps.googleapis.com/maps/api/geocode/json?latlng=$lat,$lng&key=AIzaSyCHvmtEr2uL9gHV-lPXVh-Z1ivx9GM-81g');
+        'Here was the Google map API Key also');
     final response = await http.get(url);
     final resData = json.decode(response.body);
     print(resData);
