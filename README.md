@@ -22,10 +22,35 @@ The **KFUPM Student App** was developed during the **Flutter Weekend Hackathon**
 
 ### **Screenshots:**
 
+![Screenshot 2025-03-16 170211](https://github.com/user-attachments/assets/802f6a70-fb12-472f-8c28-3731b5cb834c)
+
+![Screenshot 2025-03-16 170243](https://github.com/user-attachments/assets/b76a8d5e-ce65-4b56-9e22-af33e1152644)
 
 ---
 
 ### **Installation and Usage:**
+# Installation and Usage
+
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- **Flutter**: You must have Flutter installed. If you haven't installed it yet, follow the [installation guide](https://flutter.dev/docs/get-started/install).
+- **Dart**: Dart is bundled with Flutter, so installing Flutter will also install Dart.
+
+## Installation
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
+   cd your-repo
+   flutter pub get
+   flutter run
+   flutter run -d chrome
+   flutter build apk  # For Android
+    flutter build ios  # For iOS
+    flutter build web  # For Web
 
 
 ---
